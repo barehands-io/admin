@@ -1,0 +1,7 @@
+nodejs:
+  version: 20
+build:
+  commands:
+    - npm install
+    - npm run build
+  output_folder: build/client
