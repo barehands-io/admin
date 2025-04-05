@@ -144,3 +144,6 @@ The KYC Admin application is built with React and TypeScript, using React Router
 - Authentication and authorization capabilities
 - Custom domain support
 - Preview environments for pull requests
+
+
+## Conclusion
